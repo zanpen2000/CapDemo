@@ -1,0 +1,9 @@
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\bin\Debug\netcoreapp2.0\CommonLib.deps.json
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\bin\Debug\netcoreapp2.0\CommonLib.dll
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\bin\Debug\netcoreapp2.0\CommonLib.pdb
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.csproj.CoreCompileInputs.cache
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.AssemblyInfoInputs.cache
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.AssemblyInfo.cs
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.dll
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.pdb
+C:\Users\张鹏\Documents\Visual Studio 2017\Projects\CapDemo\CommonLib\obj\Debug\netcoreapp2.0\CommonLib.csprojResolveAssemblyReference.cache

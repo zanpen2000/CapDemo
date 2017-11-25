@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoA", "DemoA\DemoA.csproj", "{032E83D4-3B8F-4417-9509-D6959B34D70D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP", "G:\codes\CAP\src\DotNetCore.CAP\DotNetCore.CAP.csproj", "{B86138DE-A3BB-405D-9B1D-B81B6D7A895F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP.SqlServer", "G:\codes\CAP\src\DotNetCore.CAP.SqlServer\DotNetCore.CAP.SqlServer.csproj", "{B062AC15-3B8F-482F-AF3C-9996157CBB5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP.RabbitMQ", "G:\codes\CAP\src\DotNetCore.CAP.RabbitMQ\DotNetCore.CAP.RabbitMQ.csproj", "{9F77D7A3-BBC4-41AA-A256-809622817BF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper", "G:\codes\Dapper\Dapper\Dapper.csproj", "{EA4C4010-045D-4218-A4C0-C0EDD6878457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoB", "DemoB\DemoB.csproj", "{EECC2E70-5B17-457E-96A9-1681DCD55AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{D2874BA6-52AA-4094-AE1E-7825975C2C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032E83D4-3B8F-4417-9509-D6959B34D70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032E83D4-3B8F-4417-9509-D6959B34D70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032E83D4-3B8F-4417-9509-D6959B34D70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032E83D4-3B8F-4417-9509-D6959B34D70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86138DE-A3BB-405D-9B1D-B81B6D7A895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86138DE-A3BB-405D-9B1D-B81B6D7A895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86138DE-A3BB-405D-9B1D-B81B6D7A895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86138DE-A3BB-405D-9B1D-B81B6D7A895F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B062AC15-3B8F-482F-AF3C-9996157CBB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062AC15-3B8F-482F-AF3C-9996157CBB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062AC15-3B8F-482F-AF3C-9996157CBB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062AC15-3B8F-482F-AF3C-9996157CBB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F77D7A3-BBC4-41AA-A256-809622817BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F77D7A3-BBC4-41AA-A256-809622817BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F77D7A3-BBC4-41AA-A256-809622817BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F77D7A3-BBC4-41AA-A256-809622817BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4C4010-045D-4218-A4C0-C0EDD6878457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4C4010-045D-4218-A4C0-C0EDD6878457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4C4010-045D-4218-A4C0-C0EDD6878457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4C4010-045D-4218-A4C0-C0EDD6878457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECC2E70-5B17-457E-96A9-1681DCD55AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECC2E70-5B17-457E-96A9-1681DCD55AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECC2E70-5B17-457E-96A9-1681DCD55AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECC2E70-5B17-457E-96A9-1681DCD55AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2874BA6-52AA-4094-AE1E-7825975C2C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2874BA6-52AA-4094-AE1E-7825975C2C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2874BA6-52AA-4094-AE1E-7825975C2C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2874BA6-52AA-4094-AE1E-7825975C2C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1C9ED3-0F13-429A-8FAD-6E980FD1BE64}
+	EndGlobalSection
+EndGlobal
