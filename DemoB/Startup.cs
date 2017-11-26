@@ -15,6 +15,7 @@ namespace DemoB
                     opt.Password = "admin";
                 });
                 x.UseSqlServer("Data Source=192.168.0.250;Initial Catalog=cap_trans_test;User ID=sa;Password=123123;");
+                x.PollingDelay = 1;
             });
             services.AddMvc();
         }
