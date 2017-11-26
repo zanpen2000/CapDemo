@@ -11,7 +11,7 @@ namespace DemoB.Controers
     public class GradeController : Controller
     {
         [NonAction]
-        [CapSubscribe(name: "", Group = RabbitMQOptions.DefaultExchangeName)]
+        [CapSubscribe("CapPerson")]
         public void ReceiveMessage(Person person)
         {
             Console.WriteLine("this.HttpContext =>  {0}", this.HttpContext);
