@@ -35,7 +35,7 @@ namespace DemoA.Controllers
                         {
                             var person = new Person { Name = $"Name_{i.ToString()}", Age = i };
                             var inserted_person = PersonInsert(sqlTrans, person);
-                            capPublisher.Publish("", inserted_person, sqlTrans);
+                            capPublisher.Publish("CapPerson", inserted_person, sqlTrans);
                             persons.Add(inserted_person);
                             Console.WriteLine(inserted_person);
                         }
