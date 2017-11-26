@@ -25,6 +25,7 @@ namespace DemoA
                     opt.UserName = "admin";
                     opt.Password = "admin";
                 });
+                x.PollingDelay = 1;
                 x.UseSqlServer("Data Source=192.168.0.250;Initial Catalog=CapDemo;User ID=sa;Password=123123;");
             });
 
